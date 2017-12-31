@@ -36,7 +36,7 @@ app.secret_key=CONFIG.SECRET_KEY
 
 SCOPES = 'https://www.googleapis.com/auth/calendar.readonly'
 CLIENT_SECRET_FILE = CONFIG.GOOGLE_KEY_FILE  ## You'll need this
-APPLICATION_NAME = 'MeetMe class project'
+APPLICATION_NAME = 'My Project'
 
 #############################
 #
